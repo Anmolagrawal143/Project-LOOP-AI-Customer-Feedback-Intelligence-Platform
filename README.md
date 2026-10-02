@@ -2,7 +2,7 @@
 
 A full-stack corporate-grade web application developed as part of the Zidio Web Development Internship. LOOP ingests customer feedback, uses AI to classify it, clusters it into themes, surfaces trending issues, and answers plain-English questions grounded in real feedback data.
 
-**🌐 Live Demo:** [https://feedback-loop-zidio.vercel.app](https://feedback-loop-zidio.vercel.app)
+**🌐 Live Demo:** [https://project-loop-ai-customer-feedback-i-inky.vercel.app](https://project-loop-ai-customer-feedback-i-inky.vercel.app)
 
 ---
 
